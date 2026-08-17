@@ -28,7 +28,7 @@ Aria, a studio sit-down. The line on the laptop is the product: *Create viral co
 
 <p align="center">
   <a href="https://pub-b08cf1d89c564d04bde816182a8bb1f4.r2.dev/824c1377-ba9a-45a6-b2f2-8c337ca92f67/1785959747220-Brand_Influencer_Aria_Studio_sit-down_edited_.mp4">
-    <img src="https://app.pixasocial.com/brand-assets/youtube-thumbnail-1280x720.png" alt="Play the PixaSocial Brand Influencer ad — Aria studio sit-down" width="720" />
+    <img src="https://raw.githubusercontent.com/pixa-social/pixasocial/main/media/play-aria.svg" alt="Play the PixaSocial Brand Influencer ad — Aria studio sit-down" width="720" />
   </a>
 </p>
 
